@@ -1,0 +1,10 @@
+.env
+# Temporary files
+*~
+*.bak
+*.swp
+*.swo
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
