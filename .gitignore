@@ -164,4 +164,4 @@ nbproject/
 *.sublime-project
 *.sublime-workspace
 
-./test.db
+test.db
