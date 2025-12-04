@@ -163,3 +163,5 @@ System Volume Information/
 nbproject/
 *.sublime-project
 *.sublime-workspace
+
+./test.db
